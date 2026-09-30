@@ -13,7 +13,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afzal-mukhtar)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/afzalmukhtar)
-[![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](#)
+[![Flipkart](https://img.shields.io/badge/Flipkart-F7D94E?style=for-the-badge&logo=flipkart&logoColor=004B87)](#)
 ![Views](https://komarev.com/ghpvc/?username=afzalmukhtar&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)
 
 </div>
@@ -32,7 +32,8 @@ I also build **multi-LLM evaluation systems** where AI models judge, cross-exami
 
 ```python
 class AfzalMukhtar:
-    role       = "AI/ML Engineer @ Cisco"
+    role       = "AI/ML Engineer @ Flipkart"
+    prev       = ["Cisco", "Armorblox"]
     location   = "India 🇮🇳"
     built      = "18+ agentic skills • multi-LLM evaluation engines • MCP servers • RAG pipelines"
     philosophy = "If an AI agent can silently change an approved test, your engineering standards are broken."
