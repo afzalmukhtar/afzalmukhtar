@@ -1,18 +1,20 @@
 <!-- Header Banner -->
 <div align="center">
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%94%AE+Building+the+Future+of+AI+Agent+Systems;Architect+%E2%80%A2+Engineer+%E2%80%A2+Builder" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=110&lines=%E2%9A%A1+I+Build+the+Systems+That+Build+Software;Multi-Agent+Architect+%7C+LLM+Systems+Engineer" alt="Typing SVG" /></a>
 
-# Hey, I'm Afzal Mukhtar 👋
+<br/>
 
-**`AI/ML Engineer` `Agentic Systems Architect` `LLM Infrastructure Builder`**
+# Afzal Mukhtar
 
-*Designing the operating systems that AI coding agents run on.*
+**I don't use AI agents. I build the infrastructure they run on.**
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afzal-mukhtar)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/afzalmukhtar)
 [![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](#)
+![Views](https://komarev.com/ghpvc/?username=afzalmukhtar&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)
 
 </div>
 
@@ -25,67 +27,58 @@
 
 ---
 
-## 🧬 About Me
+## 💀 The Pitch
+
+Most engineers *use* AI coding assistants. I build the **operating systems** they follow.
+
+I designed a complete engineering lifecycle — **Context → Specification → Kanban → Vertical TDD → Review** — that turns sloppy AI code generation into rigorous, test-locked, vertically-sliced delivery. Every acceptance test gets a **SHA-256 hash lock**. Every test is **immutable after RED**. Every card is a **complete end-to-end behavior**, never a horizontal stub.
+
+This isn't a prompt collection. It's **18 composable skills** that ship across **Claude Code, Cursor, Codex, Windsurf, and Google Antigravity** — the actual infrastructure layer that governs how AI agents write production code.
+
+I also build **multi-LLM evaluation systems** where AI models judge, cross-examine, and score each other's outputs — courtroom-style. And **hard negative mining pipelines** that make embedding models actually good at retrieval.
 
 ```python
 class AfzalMukhtar:
-    """AI/ML Engineer building the infrastructure layer for intelligent agents."""
-
-    role      = "AI/ML Engineer"
-    company   = "Cisco"
-    location  = "India 🇮🇳"
-    education = "B.Tech, Computer Science"
-
-    focus_areas = [
-        "Multi-Agent Orchestration & Architecture",
-        "LLM Evaluation, Judging & Debate Systems",
-        "Retrieval-Augmented Generation (RAG)",
-        "Agentic Engineering Standards & Workflows",
-        "Model Context Protocol (MCP) Servers",
-        "Contrastive Learning & Embedding Fine-Tuning",
-    ]
-
-    current_mission = (
-        "Building rigorous, test-driven operating systems "
-        "for AI coding agents — so they ship clean code, not slop."
-    )
+    role       = "AI/ML Engineer @ Cisco"
+    location   = "India 🇮🇳"
+    built      = "18+ agentic skills • multi-LLM evaluation engines • MCP servers • RAG pipelines"
+    philosophy = "If an AI agent can silently change an approved test, your engineering standards are broken."
 ```
 
 ---
 
-## 🏗️ Flagship Projects
+## 🏗️ What I've Built
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🔮 [Agentic Engineering Standards](https://github.com/afzalmukhtar/agentic-engineering-standards)
-> **The Operating System for AI Coding Agents**
+**The operating system for AI coding agents.**
 
-A complete skill bundle that routes AI agent work through a rigorous lifecycle:
+Not a linter. Not a prompt. A complete **18-skill engineering lifecycle** that governs how AI agents plan, test, build, and review code:
 
-```
-Context → Specification → Kanban → Vertical TDD → Review
-```
+- ✅ **Vertical TDD** — acceptance test first, SHA-256 hash-locked after RED
+- ✅ **Kanban waves** — parallel worktrees with ownership-safe consolidation
+- ✅ **Test immutability** — no agent touches an approved test without human authorization
+- ✅ **Works everywhere** — Claude, Cursor, Codex, Windsurf, Antigravity
 
-- 🧪 **Vertical TDD** with SHA-256 test-lock immutability
-- 📋 **Kanban delivery** with parallel wave execution
-- 🔒 **Test-Lock Policy** — approved tests are immutable
-- 🏛️ **18 composable skills** for every engineering stage
-- 🤖 Works with Claude, Cursor, Codex, Windsurf & Antigravity
+> *"I don't build AI agents that write sloppy code. I build the standards that prevent it."*
 
 </td>
 <td width="50%" valign="top">
 
 ### ⚖️ [LLM Tribunal](https://github.com/afzalmukhtar/llm-tribunal)
-> **Multi-LLM Anonymous Review Panel**
+**A courtroom where LLMs judge each other.**
 
-A courtroom-style evaluation engine where multiple LLMs serve as anonymous judges with expert personas:
+Multi-LLM anonymous review panel with expert personas, adversarial cross-examination, and scored verdicts:
 
-- 👥 **Expert Personas** — each judge has a distinct evaluation lens
-- 🔀 **Cross-Examination** — judges challenge each other's reasoning
-- 📊 **Scored Verdicts** — quantified consensus with dissent tracking
-- 🎭 **Anonymous** — prevents model bias in deliberation
+- 🎭 **Anonymous judges** with distinct expert personas
+- ⚔️ **Cross-examination rounds** — models challenge each other's reasoning
+- 📊 **Quantified consensus** with dissent tracking and confidence scoring
+- 🔀 **Randomized order** — eliminates position bias
+
+> *Think "Supreme Court" but every justice is a different LLM with a different evaluation lens.*
 
 </td>
 </tr>
@@ -93,27 +86,32 @@ A courtroom-style evaluation engine where multiple LLMs serve as anonymous judge
 <tr>
 <td width="50%" valign="top">
 
-### 🧑‍⚖️ [LLM-as-a-Judge](https://github.com/afzalmukhtar/llm-as-a-judge)
-> **46 LLM Evaluation Techniques**
+### 🧑‍⚖️ [LLM-as-a-Judge Bootcamp](https://github.com/afzalmukhtar/llm-as-a-judge)
+**46 evaluation techniques. One bootcamp.**
 
-A comprehensive 2-hour build-along bootcamp covering the entire spectrum of LLM evaluation:
+The most comprehensive open-source walkthrough of LLM evaluation:
 
-- 📐 **Pointwise, Pairwise & Listwise** scoring
-- 🔄 **Multi-turn & Reference-free** evaluation
-- 🧮 **Rubric-based & Chain-of-Thought** judging
-- 🏭 **Production-ready** evaluation pipelines
+- 📐 Pointwise · Pairwise · Listwise scoring
+- 🔄 Multi-turn · Reference-free · Chain-of-Thought judging
+- 🏭 Production-ready evaluation pipelines
+- 📖 2-hour build-along with working code for every technique
+
+> *If you're evaluating LLM output without structured judging, you're guessing.*
 
 </td>
 <td width="50%" valign="top">
 
-### 🃏 [Swipe Smart MCP](https://github.com/afzalmukhtar/swipe-smart-mcp) ⭐ 4
-> **Model Context Protocol Server**
+### 🃏 [Swipe Smart MCP](https://github.com/afzalmukhtar/swipe-smart-mcp) ⭐ 4 Stars
+**Model Context Protocol server for real-world tool use.**
 
-An MCP server that extends AI assistants with real-world tool capabilities:
+An MCP server that extends AI assistants with structured, production-grade tool capabilities:
 
-- 🔌 **MCP Protocol** — native integration with Claude, Cursor & IDEs
-- 🛠️ **Tool Orchestration** — structured tool calling and response handling
-- ⚡ **Production-grade** error handling and retry logic
+- 🔌 **Native MCP integration** with Claude, Cursor & modern AI IDEs
+- 🛠️ **Structured tool orchestration** with typed inputs/outputs
+- ⚡ Production-grade error handling, retry logic, and validation
+- 🏗️ Clean architecture following MCP specification
+
+> *Giving AI agents hands, not just a mouth.*
 
 </td>
 </tr>
@@ -122,27 +120,31 @@ An MCP server that extends AI assistants with real-world tool capabilities:
 <td width="50%" valign="top">
 
 ### ⛏️ [Contrastive Miner](https://github.com/afzalmukhtar/contrasive-miner)
-> **Hard Negative Mining for Embeddings**
+**Making embedding models actually good at retrieval.**
 
-Two-stage hard negative mining pipeline for contrastive learning with embedding models:
+Two-stage hard negative mining pipeline for contrastive learning:
 
-- 🎯 **Stage 1** — BM25 candidate retrieval
+- 🎯 **Stage 1** — BM25 lexical candidate retrieval
 - 🧲 **Stage 2** — Embedding-space hard negative selection
-- 📈 **Measurable lift** in retrieval precision
-- 🔬 **Research-grade** implementation
+- 📈 Measurable precision lift over naive random negatives
+- 🔬 Research-grade implementation with reproducible benchmarks
+
+> *Your RAG pipeline is only as good as the negatives your embeddings trained on.*
 
 </td>
 <td width="50%" valign="top">
 
 ### 🧬 [RAG from Scratch](https://github.com/afzalmukhtar/rag-from-scratch)
-> **First-Principles RAG Implementation**
+**First-principles Retrieval-Augmented Generation.**
 
-Building Retrieval-Augmented Generation from the ground up:
+No frameworks. No magic. Just the raw mechanics:
 
-- 📄 **Document Processing** — chunking, cleaning, embedding
-- 🔍 **Retrieval** — vector search, re-ranking, hybrid
-- 🧠 **Generation** — context-aware LLM prompting
-- 📊 **Evaluation** — retrieval and generation quality metrics
+- 📄 Document chunking, cleaning, and embedding from scratch
+- 🔍 Vector search, re-ranking, and hybrid retrieval
+- 🧠 Context-aware generation with quality evaluation
+- 📊 End-to-end retrieval and generation quality metrics
+
+> *If you can't build RAG without LangChain, you don't understand RAG.*
 
 </td>
 </tr>
@@ -150,26 +152,26 @@ Building Retrieval-Augmented Generation from the ground up:
 
 ---
 
-## 🛠️ AI Agent Skills & Tools
+## 🛠️ Skills & Agent Tools I've Shipped
 
 <table>
 <tr>
 <td width="33%" align="center">
 
 ### 🏛️ [Agent Architecture](https://github.com/afzalmukhtar/agent-architecture-skill)
-Deep-module agent design patterns, state machines & tool orchestration
+Deep-module patterns for stateful, tool-using, self-correcting AI agents
 
 </td>
 <td width="33%" align="center">
 
 ### 📏 [AI Engineering Standards](https://github.com/afzalmukhtar/ai-engineering-standards-skill)
-Pydantic contracts, async concurrency, LLM prompts & coding discipline
+Pydantic contracts · async concurrency · LLM prompts · coding discipline
 
 </td>
 <td width="33%" align="center">
 
 ### 🎯 [System Design Prep](https://github.com/afzalmukhtar/system-design-interview-prep-skill)
-Level-aware HLD/LLD interview skill with DevTools screenshot integration
+Level-aware HLD/LLD AI skill with Chrome DevTools screenshot integration
 
 </td>
 </tr>
@@ -177,13 +179,13 @@ Level-aware HLD/LLD interview skill with DevTools screenshot integration
 <td width="33%" align="center">
 
 ### 📋 [JIRA Integration](https://github.com/afzalmukhtar/jira-integration-skill)
-AI agent skill for autonomous JIRA project management
+AI agent skill for autonomous JIRA project management & tracking
 
 </td>
 <td width="33%" align="center">
 
 ### 🏆 [Achievement Tracker](https://github.com/afzalmukhtar/achievement-tracker-skill)
-Track work contributions & generate manager-ready brag documents
+Auto-generate manager-ready brag docs from work contributions
 
 </td>
 <td width="33%" align="center">
@@ -197,67 +199,84 @@ Monte Carlo Tree Search for automated prompt optimization
 
 ---
 
-## ⚡ Tech Arsenal
+## ⚡ Tech Stack
 
 <div align="center">
 
-#### 🤖 AI / ML / LLM
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+**AI / ML / LLM**
 
-#### 🛠️ Infrastructure & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
-#### 🤖 Agent Platforms
-![Claude](https://img.shields.io/badge/Claude_Code-191919?style=flat-square&logo=anthropic&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
-![Windsurf](https://img.shields.io/badge/Windsurf-00C4B4?style=flat-square)
-![MCP](https://img.shields.io/badge/MCP_Protocol-412991?style=flat-square)
-![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white)
+**LLM Providers**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+
+**Infrastructure**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Agent Platforms I Build For**
+
+![Claude](https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Windsurf](https://img.shields.io/badge/Windsurf-00C4B4?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP_Protocol-7C3AED?style=for-the-badge)
 
 </div>
 
 ---
 
-## 🎯 What I'm Building
+## 🗺️ Domain Map
 
-<div align="center">
+> Everything I build connects. Here's how.
 
-```mermaid
-graph LR
-    A["🧠 LLM Systems"] --> B["🤖 Multi-Agent<br/>Orchestration"]
-    B --> C["📋 Agentic<br/>Engineering Standards"]
-    C --> D["🧪 Vertical TDD<br/>& Test Locking"]
-    D --> E["🚀 Production-Grade<br/>AI Applications"]
-
-    style A fill:#58A6FF,stroke:#58A6FF,color:#0D1117
-    style B fill:#7C3AED,stroke:#7C3AED,color:#fff
-    style C fill:#10B981,stroke:#10B981,color:#0D1117
-    style D fill:#F59E0B,stroke:#F59E0B,color:#0D1117
-    style E fill:#EF4444,stroke:#EF4444,color:#fff
 ```
-
-</div>
-
-| Area | What I'm Doing |
-| :--- | :--- |
-| 🏗️ **Agentic Standards** | Building the lifecycle that AI coding agents follow — Context → Spec → Kanban → Vertical TDD → Review |
-| ⚖️ **LLM Evaluation** | Multi-judge panels, cross-examination, and consensus-driven evaluation systems |
-| 🔍 **RAG & Retrieval** | Hard negative mining, domain-specific embedding fine-tuning, and graph-enhanced retrieval |
-| 🔌 **MCP & Tool Use** | Model Context Protocol servers that give AI agents real-world capabilities |
-| 🧠 **Agent Architecture** | Deep-module design patterns for stateful, tool-using, self-correcting agents |
+                    ┌──────────────────────────────────────────────┐
+                    │           AGENTIC INFRASTRUCTURE             │
+                    │                                              │
+                    │   18 Skills · Vertical TDD · Test Locking    │
+                    │   Kanban Waves · SHA-256 Immutability        │
+                    │                                              │
+                    │   Runs on: Claude · Cursor · Codex ·         │
+                    │            Windsurf · Antigravity             │
+                    └──────────────┬───────────────────────────────┘
+                                   │
+                    ┌──────────────┴───────────────┐
+                    │                              │
+          ┌─────────▼──────────┐       ┌───────────▼───────────┐
+          │  LLM EVALUATION    │       │  RETRIEVAL & SEARCH   │
+          │                    │       │                       │
+          │  Tribunal (multi-  │       │  Contrastive Miner    │
+          │  judge panels)     │       │  RAG from Scratch     │
+          │                    │       │  Domain Embeddings     │
+          │  46 Judge          │       │  Fine-Tuning          │
+          │  Techniques        │       │                       │
+          └─────────┬──────────┘       └───────────┬───────────┘
+                    │                              │
+                    └──────────────┬───────────────┘
+                                   │
+                    ┌──────────────▼───────────────┐
+                    │    AGENT TOOLS & MCP          │
+                    │                              │
+                    │  Swipe Smart MCP · JIRA      │
+                    │  Agent Architecture Patterns  │
+                    │  MCTS Prompt Optimization     │
+                    └──────────────────────────────┘
+```
 
 ---
 
@@ -270,44 +289,20 @@ graph LR
 
 ---
 
-## 🧭 Engineering Philosophy
-
 <div align="center">
 
-> *"Each Kanban card is a vertical slice — complete end-to-end behavior, not one layer.*
-> *Write the acceptance test and confirm intentional RED before production code.*
-> *After RED, the test is locked. Any change needs explicit approval, a fresh RED, and a new lock.*
-> ***Tests are the proof** — scripts and harnesses do not substitute for them."*
+## 🤝 Let's Talk
 
-</div>
+*Building agentic systems? Evaluating LLMs? Designing agent infrastructure?*
+*I'm always down to talk shop.*
 
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│   "I don't build AI agents that write sloppy code.      │
-│    I build the standards that prevent it."               │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-```
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afzal-mukhtar)
+[![GitHub](https://img.shields.io/badge/Follow_My_Work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/afzalmukhtar)
 
 ---
 
-<div align="center">
-
-### 🤝 Let's Connect
-
-*I'm always interested in conversations about agentic systems, LLM evaluation,*
-*and building engineering rigor into AI-assisted development.*
-
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afzal-mukhtar)
-[![GitHub](https://img.shields.io/badge/Follow_My_Work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/afzalmukhtar)
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=afzalmukhtar&style=flat-square&color=58A6FF&label=Profile+Views" />
+```
+If an AI agent can silently change an approved test, your engineering standards are broken.
+```
 
 </div>
