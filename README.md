@@ -19,7 +19,7 @@
 ---
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=afzalmukhtar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=afzalmukhtar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=afzalmukhtar&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="49%" />
 </div>
 
@@ -264,7 +264,7 @@ graph LR
 ## 📊 Languages & Activity
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afzalmukhtar&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&count_private=true" width="38%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afzalmukhtar&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" width="38%" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=afzalmukhtar&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&area_color=58A6FF" width="60%" />
 </div>
 
