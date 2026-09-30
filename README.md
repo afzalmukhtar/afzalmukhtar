@@ -27,7 +27,7 @@
 class AfzalMukhtar:
     """Production AI engineer. Named inventor. Builder of things that ship."""
 
-    role       = "AI Engineer II @ Flipkart"
+    role       = "Senior AI Engineer @ Flipkart"
     prev       = ["Cisco (Generative AI Engineer)", "Armorblox → acquired by Cisco"]
     location   = "Bangalore, India 🇮🇳"
     education  = "B.Tech CS (ML & Data Science) — PES University — 8.85 CGPA"
